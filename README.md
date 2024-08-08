@@ -41,7 +41,7 @@ We fetch blog data from RESTful API.
 
 | <img src="readme_assets/1.jpg"/>      | <img src="readme_assets/2.jpg"/>      | <img src="readme_assets/3.jpg"/>      |
 |-----------------------------------------------|----------------------------------------------| ------------------------------------------- |
-| <img src="readme_assets/4.jpg"/> | <img src="readme_assets/5.jpg.png"/> |
+| <img src="readme_assets/4.jpg"/> | <img src="readme_assets/5.jpg"/> |
 
 ---
 
